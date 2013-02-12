@@ -6,6 +6,8 @@
 
 ## Quick start
 
+TODO: add how to orionhub usage, although setting it up is quite straightforward task.
+
 Clone the git repo - `git clone git@github.com:commadelimited/jQuery-Mobile-Boilerplate.git` - or [download it](https://github.com/commadelimited/jQuery-Mobile-Boilerplate/zipball/master)
 
 **Note:** By default, the links to the CSS and JS files are relative.
@@ -15,6 +17,7 @@ Clone the git repo - `git clone git@github.com:commadelimited/jQuery-Mobile-Boil
 ## Example
 
 [View a simple demo ](http://andymatthews.net/code/jquery-mobile-boilerplate/)
+[View a jsonp list demo in orionhub](http://jqm-boilerplate-site.orionhub.org:8080/lists.html) *Original idea of this fork*
 
 ## Features
 
@@ -31,8 +34,7 @@ You are invited to contribute code and suggestions to this project. The more the
 
 ## Project Info
 
-* Source: http://github.com/commadelimited/jQuery-Mobile-Boilerplate
-* Twitter: [http://twitter.com/commadelimited](http://twitter.com/commadelimited)
+* Forked from: http://github.com/commadelimited/jQuery-Mobile-Boilerplate
 
 ## License
 
